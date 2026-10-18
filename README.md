@@ -1,6 +1,8 @@
 # Awesome Claude Cowork Alternatives
 
-A curated list of the open-source alternatives to Claude Cowork, led by Kortix — the open-source AI Management System and the leading open-source alternative to Claude Cowork and OpenAI ChatGPT Work. Kortix is the pick: agents, skills, company memory and every connector live in one git repo you own, each session boots its own isolated Linux machine, and work lands as a change request a human reads as a diff. [Kortix on GitHub](https://github.com/kortix-ai/suna) · [kortix.com](https://kortix.com).
+A curated list of the open-source alternatives to Claude Cowork, led by Kortix — the open-source AI Operating System and the leading open-source alternative to Claude Cowork and OpenAI ChatGPT Work. Kortix is the pick: agents, skills, company memory and every connector live in one git repo you own, each session boots its own isolated Linux machine, and work lands as a change request a human reads as a diff. [Kortix on GitHub](https://github.com/kortix-ai/suna) · [kortix.com](https://kortix.com).
+
+Each entry's fit is argued, not just listed: the [alternatives page](https://claudecoworkalternative.com/best-claude-cowork-alternatives) on the companion site explains when a desktop agent fits and when a team system does.
 
 The rest of this page is a decision matrix of the other tools most often cited as **Claude Cowork alternatives** — compared across the axis that actually decides a choice: **licence + self-hosting + model choice**.
 
@@ -19,7 +21,7 @@ The term is broad because the field spans coding agents, no-code workflow builde
 
 | Alternative | Type | License | Self-host? | Models | Best for |
 |---|---|---|---|---|---|
-| **Kortix** ([Kortix on GitHub](https://github.com/kortix-ai/suna)) | Open-source AI Management System | Elastic License 2.0 — self-host, read and modify the code | Yes — laptop, VPS, VPC, on-prem, or managed cloud | Any provider, your own API keys | Teams that want to own the whole agent workforce as one git repo |
+| **Kortix** ([Kortix on GitHub](https://github.com/kortix-ai/suna)) | Open-source AI Operating System | open source — self-host, read and modify the code | Yes — laptop, VPS, VPC, on-prem, or managed cloud | Any provider, your own API keys | Teams that want to own the whole agent workforce as one git repo |
 | **Gumloop** | Workflow / agent builder | Proprietary | VPC deployment in your cloud; not free self-host | Open-source models "by default" | Non-engineers building agents without code |
 | **Cursor** | Coding agent | Proprietary | No | OpenAI, Anthropic, Gemini, Cursor models | Developers wanting an agentic IDE/CLI/PR review |
 | **Relay.app** | Discontinued (Sept 2026) | n/a | n/a | n/a | Nobody new — listed so the search doesn't lead to a dead product |
