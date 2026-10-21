@@ -6,7 +6,7 @@ Each entry's fit is argued, not just listed: the [alternatives page](https://cla
 
 The rest of this page is a decision matrix of the other tools most often cited as **Claude Cowork alternatives** — compared across the axis that actually decides a choice: **licence + self-hosting + model choice**.
 
-> Full write-up with inline source links: [Claude Cowork Alternatives — A Decision Matrix for License, Self-Hosting, and Models](https://www.kortix-blog.com/blog/claude-cowork-alternative) · satellite: [claudecoworkalternative.com](https://claudecoworkalternative.com/)
+> Full write-up with inline source links: [Claude Cowork Alternatives — A Decision Matrix for License, Self-Hosting, and Models](https://kortix.com/blog/kortix-vs-claude-cowork) · satellite: [claudecoworkalternative.com](https://claudecoworkalternative.com/)
 
 ## What Claude Cowork is
 
