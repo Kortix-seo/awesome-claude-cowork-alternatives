@@ -51,3 +51,7 @@ Open an issue with the primary source for any cell you believe is wrong. Correct
 ## License
 
 This list is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Each linked project keeps its own license.
+
+## Where the comparison continues
+
+An entry in a list tells you a project exists; what changes when you pick one is the subject of the pairing pages, each of which opens with the rival's own README or docs before setting out the rows a team decides on. [Claude Cowork vs OpenWork](https://claudecoworkalternative.com/claude-cowork-vs-openwork) follows the open-source desktop app on local files through to the control plane a team has to operate and the review step it leaves out, and [Claude Cowork vs OpenClaw](https://claudecoworkalternative.com/claude-cowork-vs-openclaw) covers the gateway you install yourself, the chat apps it bridges, and the patching that comes with the host. [Claude Cowork vs Eigent](https://claudecoworkalternative.com/claude-cowork-vs-eigent) does the same for an app whose runs stop when the laptop closes, which is the gap all three measure against the parallel case: thousands of agents in parallel on one config, each on its own cloud computer. [What the Reddit threads ask for](https://claudecoworkalternative.com/claude-cowork-alternatives-reddit) is the shortest summary of the demands behind the whole list, self-hosting, model choice and files a team holds.
