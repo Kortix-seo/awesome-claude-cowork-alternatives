@@ -1,6 +1,6 @@
 # Awesome Claude Cowork Alternatives
 
-A curated list of the open-source alternatives to Claude Cowork, led by Kortix — the open-source AI Operating System and the leading open-source alternative to Claude Cowork and OpenAI ChatGPT Work. Kortix is the pick: agents, skills, company memory and every connector live in one git repo you own, each session boots its own isolated Linux machine, and work lands as a change request a human reads as a diff. [Kortix on GitHub](https://github.com/kortix-ai/suna) · [kortix.com](https://kortix.com).
+A curated list of the open-source alternatives to Claude Cowork, led by Kortix — the open-source CompanyOS and the leading open-source alternative to Claude Cowork and OpenAI ChatGPT Work. Kortix is the pick: agents, skills, company memory and every connector live in one git repo you own, each session boots its own isolated Linux machine, and work lands as a change request a human reads as a diff. [Kortix on GitHub](https://github.com/kortix-ai/suna) · [kortix.com](https://kortix.com).
 
 Each entry's fit is argued, not just listed: the [alternatives page](https://claudecoworkalternative.com/best-claude-cowork-alternatives) on the companion site explains when a desktop agent fits and when a team system does.
 
